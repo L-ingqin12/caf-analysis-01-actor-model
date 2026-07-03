@@ -29,7 +29,9 @@
       ],
       "updated": 1783003914168,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 58397,
+      "version": 1
     },
     {
       "id": "f2-e1-t",
@@ -60,7 +62,9 @@
       "containerId": "f2-e1",
       "originalText": "Sender Actor\n(any thread)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 56376,
+      "version": 1
     },
     {
       "id": "f2-e2",
@@ -79,7 +83,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -88,7 +94,9 @@
       ],
       "updated": 1783003914168,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 96648,
+      "version": 1
     },
     {
       "id": "f2-e2-t",
@@ -119,7 +127,9 @@
       "containerId": "f2-e2",
       "originalText": "mail() construct message",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 33697,
+      "version": 1
     },
     {
       "id": "f2-e3",
@@ -138,7 +148,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -147,7 +159,9 @@
       ],
       "updated": 1783003914168,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 44331,
+      "version": 1
     },
     {
       "id": "f2-e3-t",
@@ -178,7 +192,9 @@
       "containerId": "f2-e3",
       "originalText": "create_mailbox_element\n(sender, mid, content)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 6057,
+      "version": 1
     },
     {
       "id": "f2-e4",
@@ -197,7 +213,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -206,7 +224,9 @@
       ],
       "updated": 1783003914168,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 94688,
+      "version": 1
     },
     {
       "id": "f2-e4-t",
@@ -237,7 +257,9 @@
       "containerId": "f2-e4",
       "originalText": "actor_control_block::\nenqueue(ptr, sched)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 24225,
+      "version": 1
     },
     {
       "id": "f2-e5",
@@ -256,7 +278,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -265,7 +289,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 56816,
+      "version": 1
     },
     {
       "id": "f2-e5-t",
@@ -296,7 +322,9 @@
       "containerId": "f2-e5",
       "originalText": "abstract_actor::enqueue(ptr, sched)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 22176,
+      "version": 1
     },
     {
       "id": "f2-e6",
@@ -315,7 +343,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -324,7 +354,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 52459,
+      "version": 1
     },
     {
       "id": "f2-e6-t",
@@ -355,7 +387,9 @@
       "containerId": "f2-e6",
       "originalText": "push_back(ptr)\n-> inbox_.push(ptr)\n(LIFO, atomic)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 89264,
+      "version": 1
     },
     {
       "id": "f2-e7",
@@ -374,7 +408,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -383,7 +419,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 30291,
+      "version": 1
     },
     {
       "id": "f2-e7-t",
@@ -414,7 +452,9 @@
       "containerId": "f2-e7",
       "originalText": "Queue state?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 82754,
+      "version": 1
     },
     {
       "id": "f2-l-ub",
@@ -445,7 +485,9 @@
       "containerId": null,
       "originalText": "unblocked_reader",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 83100,
+      "version": 1
     },
     {
       "id": "f2-l-sc",
@@ -476,7 +518,9 @@
       "containerId": null,
       "originalText": "success",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 15925,
+      "version": 1
     },
     {
       "id": "f2-l-cl",
@@ -507,7 +551,9 @@
       "containerId": null,
       "originalText": "queue_closed",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 16706,
+      "version": 1
     },
     {
       "id": "f2-e8",
@@ -526,7 +572,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -535,7 +583,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 91770,
+      "version": 1
     },
     {
       "id": "f2-e8-t",
@@ -566,7 +616,9 @@
       "containerId": "f2-e8",
       "originalText": "Schedule actor",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 11471,
+      "version": 1
     },
     {
       "id": "f2-e9",
@@ -585,7 +637,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -594,7 +648,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 67844,
+      "version": 1
     },
     {
       "id": "f2-e9-t",
@@ -625,7 +681,9 @@
       "containerId": "f2-e9",
       "originalText": "Message queued,\nno further action",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 21491,
+      "version": 1
     },
     {
       "id": "f2-e10",
@@ -644,7 +702,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -653,7 +713,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 88829,
+      "version": 1
     },
     {
       "id": "f2-e10-t",
@@ -684,7 +746,9 @@
       "containerId": "f2-e10",
       "originalText": "Reject message",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 47580,
+      "version": 1
     },
     {
       "id": "f2-e11",
@@ -703,7 +767,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -712,7 +778,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 43411,
+      "version": 1
     },
     {
       "id": "f2-e11-t",
@@ -743,7 +811,9 @@
       "containerId": "f2-e11",
       "originalText": "pinned_scheduler?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 50599,
+      "version": 1
     },
     {
       "id": "f2-e12",
@@ -762,7 +832,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -771,7 +843,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 14429,
+      "version": 1
     },
     {
       "id": "f2-e12-t",
@@ -802,7 +876,9 @@
       "containerId": "f2-e12",
       "originalText": "pinned->schedule(this)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 57168,
+      "version": 1
     },
     {
       "id": "f2-e13",
@@ -821,7 +897,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -830,7 +908,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 17915,
+      "version": 1
     },
     {
       "id": "f2-e13-t",
@@ -861,7 +941,9 @@
       "containerId": "f2-e13",
       "originalText": "use_delay?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 87025,
+      "version": 1
     },
     {
       "id": "f2-e14",
@@ -880,7 +962,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -889,7 +973,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 83934,
+      "version": 1
     },
     {
       "id": "f2-e14-t",
@@ -920,7 +1006,9 @@
       "containerId": "f2-e14",
       "originalText": "sched->delay(this)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 75579,
+      "version": 1
     },
     {
       "id": "f2-e15",
@@ -939,7 +1027,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -948,7 +1038,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 51473,
+      "version": 1
     },
     {
       "id": "f2-e15-t",
@@ -979,7 +1071,9 @@
       "containerId": "f2-e15",
       "originalText": "sched->schedule(this)\n-> work_stealing",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 36802,
+      "version": 1
     },
     {
       "id": "f2-e16",
@@ -998,7 +1092,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1007,7 +1103,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 15314,
+      "version": 1
     },
     {
       "id": "f2-e16-t",
@@ -1038,7 +1136,9 @@
       "containerId": "f2-e16",
       "originalText": "Worker main loop\npolicy_dequeue()",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 44262,
+      "version": 1
     },
     {
       "id": "f2-e17",
@@ -1057,7 +1157,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1066,7 +1168,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 15664,
+      "version": 1
     },
     {
       "id": "f2-e17-t",
@@ -1097,7 +1201,9 @@
       "containerId": "f2-e17",
       "originalText": "resumable::resume\n(sched, event_id)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 93774,
+      "version": 1
     },
     {
       "id": "f2-e18",
@@ -1116,7 +1222,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1125,7 +1233,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 26650,
+      "version": 1
     },
     {
       "id": "f2-e18-t",
@@ -1156,7 +1266,9 @@
       "containerId": "f2-e18",
       "originalText": "Message loop:\npop_front()",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 48447,
+      "version": 1
     },
     {
       "id": "f2-e19",
@@ -1175,7 +1287,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1184,7 +1298,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 80585,
+      "version": 1
     },
     {
       "id": "f2-e19-t",
@@ -1215,7 +1331,9 @@
       "containerId": "f2-e19",
       "originalText": "Got message?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 29559,
+      "version": 1
     },
     {
       "id": "f2-e20",
@@ -1234,7 +1352,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1243,7 +1363,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 61133,
+      "version": 1
     },
     {
       "id": "f2-e20-t",
@@ -1274,7 +1396,9 @@
       "containerId": "f2-e20",
       "originalText": "try_block()\n-> wait",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 9350,
+      "version": 1
     },
     {
       "id": "f2-e21",
@@ -1293,7 +1417,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1302,7 +1428,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 50354,
+      "version": 1
     },
     {
       "id": "f2-e21-t",
@@ -1333,7 +1461,9 @@
       "containerId": "f2-e21",
       "originalText": "consume(ptr)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 25852,
+      "version": 1
     },
     {
       "id": "f2-e22",
@@ -1352,7 +1482,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1361,7 +1493,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 43103,
+      "version": 1
     },
     {
       "id": "f2-e22-t",
@@ -1392,7 +1526,9 @@
       "containerId": "f2-e22",
       "originalText": "Message classification:\n- awaited responses\n- multiplexed responses\n- system / ordinary",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 81154,
+      "version": 1
     },
     {
       "id": "f2-e23",
@@ -1411,7 +1547,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1420,7 +1558,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 70680,
+      "version": 1
     },
     {
       "id": "f2-e23-t",
@@ -1451,7 +1591,9 @@
       "containerId": "f2-e23",
       "originalText": "Match\nsuccess?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 53483,
+      "version": 1
     },
     {
       "id": "f2-e24",
@@ -1470,7 +1612,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1479,7 +1623,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 88429,
+      "version": 1
     },
     {
       "id": "f2-e24-t",
@@ -1510,7 +1656,9 @@
       "containerId": "f2-e24",
       "originalText": "Execute handler\n++consumed\nunstash()",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 30102,
+      "version": 1
     },
     {
       "id": "f2-e25",
@@ -1529,7 +1677,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1538,7 +1688,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 59059,
+      "version": 1
     },
     {
       "id": "f2-e25-t",
@@ -1569,7 +1721,9 @@
       "containerId": "f2-e25",
       "originalText": "Fallback to\ndefault_handler_",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 66161,
+      "version": 1
     },
     {
       "id": "f2-e26",
@@ -1588,7 +1742,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1597,7 +1753,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 71743,
+      "version": 1
     },
     {
       "id": "f2-e26-t",
@@ -1628,7 +1786,9 @@
       "containerId": "f2-e26",
       "originalText": "consumed ==\nmax_throughput?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 94857,
+      "version": 1
     },
     {
       "id": "f2-e27",
@@ -1647,7 +1807,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1656,7 +1818,9 @@
       ],
       "updated": 1783003914169,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 9238,
+      "version": 1
     },
     {
       "id": "f2-e27-t",
@@ -1687,7 +1851,9 @@
       "containerId": "f2-e27",
       "originalText": "Return to scheduler\nyield CPU",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 10406,
+      "version": 1
     },
     {
       "id": "f2-a1",
@@ -1734,7 +1900,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 67301,
+      "version": 1
     },
     {
       "id": "f2-a2",
@@ -1781,7 +1949,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 3584,
+      "version": 1
     },
     {
       "id": "f2-a3",
@@ -1828,7 +1998,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 32561,
+      "version": 1
     },
     {
       "id": "f2-a4",
@@ -1875,7 +2047,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 37291,
+      "version": 1
     },
     {
       "id": "f2-a5",
@@ -1922,7 +2096,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 64108,
+      "version": 1
     },
     {
       "id": "f2-a6",
@@ -1969,7 +2145,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 15692,
+      "version": 1
     },
     {
       "id": "f2-a7",
@@ -2016,7 +2194,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 64943,
+      "version": 1
     },
     {
       "id": "f2-a8",
@@ -2063,7 +2243,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 80239,
+      "version": 1
     },
     {
       "id": "f2-a9",
@@ -2110,7 +2292,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 18621,
+      "version": 1
     },
     {
       "id": "f2-a10",
@@ -2157,7 +2341,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 45499,
+      "version": 1
     },
     {
       "id": "f2-a11",
@@ -2204,7 +2390,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 47717,
+      "version": 1
     },
     {
       "id": "f2-a12",
@@ -2251,7 +2439,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 35896,
+      "version": 1
     },
     {
       "id": "f2-a13",
@@ -2298,7 +2488,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 78530,
+      "version": 1
     },
     {
       "id": "f2-a14",
@@ -2345,7 +2537,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 90384,
+      "version": 1
     },
     {
       "id": "f2-a15",
@@ -2392,7 +2586,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 52733,
+      "version": 1
     },
     {
       "id": "f2-a16",
@@ -2439,7 +2635,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 29107,
+      "version": 1
     },
     {
       "id": "f2-a17",
@@ -2486,7 +2684,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 31541,
+      "version": 1
     },
     {
       "id": "f2-a18",
@@ -2533,7 +2733,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 20011,
+      "version": 1
     },
     {
       "id": "f2-a19",
@@ -2580,7 +2782,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 64691,
+      "version": 1
     },
     {
       "id": "f2-a20",
@@ -2627,7 +2831,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 16998,
+      "version": 1
     },
     {
       "id": "f2-a21",
@@ -2674,7 +2880,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 92193,
+      "version": 1
     },
     {
       "id": "f2-a22",
@@ -2721,7 +2929,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 5167,
+      "version": 1
     },
     {
       "id": "f2-a23",
@@ -2768,7 +2978,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 10786,
+      "version": 1
     },
     {
       "id": "f2-a24",
@@ -2815,7 +3027,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 92870,
+      "version": 1
     },
     {
       "id": "f2-a25",
@@ -2862,7 +3076,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 78319,
+      "version": 1
     },
     {
       "id": "f2-a26",
@@ -2909,7 +3125,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 25519,
+      "version": 1
     },
     {
       "id": "f2-a27",
@@ -2956,7 +3174,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 66578,
+      "version": 1
     },
     {
       "id": "f2-a28",
@@ -3003,7 +3223,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 49631,
+      "version": 1
     },
     {
       "id": "f2-a29",
@@ -3050,12 +3272,16 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 43491,
+      "version": 1
     }
   ],
   "appState": {
     "gridSize": 20,
-    "viewBackgroundColor": "#ffffff"
+    "viewBackgroundColor": "#ffffff",
+    "theme": "light",
+    "currentItemFontFamily": 1
   },
   "files": {}
 }

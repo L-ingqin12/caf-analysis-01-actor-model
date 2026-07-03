@@ -29,7 +29,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 27215,
+      "version": 1
     },
     {
       "id": "f1-e1-t",
@@ -60,7 +62,9 @@
       "containerId": "f1-e1",
       "originalText": "spawn<C>(xs...)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 58612,
+      "version": 1
     },
     {
       "id": "f1-e2",
@@ -79,7 +83,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -88,7 +94,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 20488,
+      "version": 1
     },
     {
       "id": "f1-e2-t",
@@ -119,7 +127,9 @@
       "containerId": "f1-e2",
       "originalText": "actor_config cfg{Os}",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 97802,
+      "version": 1
     },
     {
       "id": "f1-e3",
@@ -138,7 +148,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -147,7 +159,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 22299,
+      "version": 1
     },
     {
       "id": "f1-e3-t",
@@ -178,7 +192,9 @@
       "containerId": "f1-e3",
       "originalText": "make_actor<C>(aid, nid, sys, cfg, xs...)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 54059,
+      "version": 1
     },
     {
       "id": "f1-e4",
@@ -197,7 +213,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -206,7 +224,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 21539,
+      "version": 1
     },
     {
       "id": "f1-e4-t",
@@ -237,7 +257,9 @@
       "containerId": "f1-e4",
       "originalText": "has_detach_flag?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 92572,
+      "version": 1
     },
     {
       "id": "f1-e5",
@@ -256,7 +278,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -265,7 +289,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 48208,
+      "version": 1
     },
     {
       "id": "f1-e5-t",
@@ -296,7 +322,9 @@
       "containerId": "f1-e5",
       "originalText": "acquire_private_thread()",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 17675,
+      "version": 1
     },
     {
       "id": "f1-e6",
@@ -315,7 +343,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -324,7 +354,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 74667,
+      "version": 1
     },
     {
       "id": "f1-e6-t",
@@ -355,7 +387,9 @@
       "containerId": "f1-e6",
       "originalText": "act() in independent thread",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 41702,
+      "version": 1
     },
     {
       "id": "f1-e7",
@@ -374,7 +408,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -383,7 +419,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 92036,
+      "version": 1
     },
     {
       "id": "f1-e7-t",
@@ -414,7 +452,9 @@
       "containerId": "f1-e7",
       "originalText": "inc_running_actors_count()",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 53771,
+      "version": 1
     },
     {
       "id": "f1-e8",
@@ -433,7 +473,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -442,7 +484,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 10694,
+      "version": 1
     },
     {
       "id": "f1-e8-t",
@@ -473,7 +517,9 @@
       "containerId": "f1-e8",
       "originalText": "lazy_init?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 20113,
+      "version": 1
     },
     {
       "id": "f1-e9",
@@ -492,7 +538,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -501,7 +549,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 14969,
+      "version": 1
     },
     {
       "id": "f1-e9-t",
@@ -532,7 +582,9 @@
       "containerId": "f1-e9",
       "originalText": "launch_delayed()\nmailbox().try_block()",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 55238,
+      "version": 1
     },
     {
       "id": "f1-e10",
@@ -551,7 +603,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -560,7 +614,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 9877,
+      "version": 1
     },
     {
       "id": "f1-e10-t",
@@ -591,7 +647,9 @@
       "containerId": "f1-e10",
       "originalText": "sched->delay(this, init_event)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 9430,
+      "version": 1
     },
     {
       "id": "f1-e11",
@@ -610,7 +668,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -619,7 +679,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 7301,
+      "version": 1
     },
     {
       "id": "f1-e11-t",
@@ -650,7 +712,9 @@
       "containerId": "f1-e11",
       "originalText": "scheduler resume() -> initialize()",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 26817,
+      "version": 1
     },
     {
       "id": "f1-e12",
@@ -669,7 +733,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -678,7 +744,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 34185,
+      "version": 1
     },
     {
       "id": "f1-e12-t",
@@ -709,7 +777,9 @@
       "containerId": "f1-e12",
       "originalText": "Event loop:\npop_front -> consume until max_throughput",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 74309,
+      "version": 1
     },
     {
       "id": "f1-e13",
@@ -728,7 +798,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -737,7 +809,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 32814,
+      "version": 1
     },
     {
       "id": "f1-e13-t",
@@ -768,7 +842,9 @@
       "containerId": "f1-e13",
       "originalText": "finalize()\n-> cleanup(reason, sched)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 78044,
+      "version": 1
     },
     {
       "id": "f1-e14",
@@ -787,7 +863,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -796,7 +874,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 44398,
+      "version": 1
     },
     {
       "id": "f1-e14-t",
@@ -827,7 +907,9 @@
       "containerId": "f1-e14",
       "originalText": "Phase 1: Cancel outgoing edges\nPhase 2: Trigger actor_exited",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 86324,
+      "version": 1
     },
     {
       "id": "f1-e15",
@@ -846,7 +928,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -855,7 +939,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 12735,
+      "version": 1
     },
     {
       "id": "f1-e15-t",
@@ -886,7 +972,9 @@
       "containerId": "f1-e15",
       "originalText": "on_cleanup(reason):\ncancel timeout/flows/streams\nclose mailbox\nrelease private thread",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 82580,
+      "version": 1
     },
     {
       "id": "f1-e16",
@@ -905,7 +993,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -914,7 +1004,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 95533,
+      "version": 1
     },
     {
       "id": "f1-e16-t",
@@ -945,7 +1037,9 @@
       "containerId": "f1-e16",
       "originalText": "set is_terminated_flag\ndec_running_actors_count()",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 46739,
+      "version": 1
     },
     {
       "id": "f1-e17",
@@ -964,7 +1058,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -973,7 +1069,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 83155,
+      "version": 1
     },
     {
       "id": "f1-e17-t",
@@ -1004,7 +1102,9 @@
       "containerId": "f1-e17",
       "originalText": "last strong ref\nreleased?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 68510,
+      "version": 1
     },
     {
       "id": "f1-e18",
@@ -1023,7 +1123,9 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "boundElements": [
         {
           "type": "text",
@@ -1032,7 +1134,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 7376,
+      "version": 1
     },
     {
       "id": "f1-e18-t",
@@ -1063,7 +1167,9 @@
       "containerId": "f1-e18",
       "originalText": "~abstract_actor()\nderef_weak()\nfree memory",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 68501,
+      "version": 1
     },
     {
       "id": "f1-e19",
@@ -1091,7 +1197,9 @@
       ],
       "updated": 1783003914143,
       "link": null,
-      "locked": false
+      "locked": false,
+      "seed": 79223,
+      "version": 1
     },
     {
       "id": "f1-e19-t",
@@ -1122,7 +1230,9 @@
       "containerId": "f1-e19",
       "originalText": "Actor Destroyed",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 65928,
+      "version": 1
     },
     {
       "id": "f1-a1",
@@ -1169,7 +1279,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 48715,
+      "version": 1
     },
     {
       "id": "f1-a2",
@@ -1216,7 +1328,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 44997,
+      "version": 1
     },
     {
       "id": "f1-a3",
@@ -1263,7 +1377,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 71159,
+      "version": 1
     },
     {
       "id": "f1-a4",
@@ -1310,7 +1426,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 4089,
+      "version": 1
     },
     {
       "id": "f1-l4",
@@ -1341,7 +1459,9 @@
       "containerId": null,
       "originalText": "YES",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 85797,
+      "version": 1
     },
     {
       "id": "f1-a5",
@@ -1388,7 +1508,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 64112,
+      "version": 1
     },
     {
       "id": "f1-a6",
@@ -1435,7 +1557,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 91080,
+      "version": 1
     },
     {
       "id": "f1-l6",
@@ -1466,7 +1590,9 @@
       "containerId": null,
       "originalText": "NO",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 13638,
+      "version": 1
     },
     {
       "id": "f1-a7",
@@ -1513,7 +1639,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 7921,
+      "version": 1
     },
     {
       "id": "f1-a8",
@@ -1560,7 +1688,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 8507,
+      "version": 1
     },
     {
       "id": "f1-l8",
@@ -1591,7 +1721,9 @@
       "containerId": null,
       "originalText": "YES",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 96059,
+      "version": 1
     },
     {
       "id": "f1-a9",
@@ -1638,7 +1770,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 12370,
+      "version": 1
     },
     {
       "id": "f1-l9",
@@ -1669,7 +1803,9 @@
       "containerId": null,
       "originalText": "NO",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "seed": 73574,
+      "version": 1
     },
     {
       "id": "f1-a10",
@@ -1716,7 +1852,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 32036,
+      "version": 1
     },
     {
       "id": "f1-a11",
@@ -1763,7 +1901,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 46857,
+      "version": 1
     },
     {
       "id": "f1-a12",
@@ -1810,7 +1950,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 81255,
+      "version": 1
     },
     {
       "id": "f1-a13",
@@ -1857,7 +1999,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 64686,
+      "version": 1
     },
     {
       "id": "f1-a14",
@@ -1904,7 +2048,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 69004,
+      "version": 1
     },
     {
       "id": "f1-a15",
@@ -1951,7 +2097,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 95188,
+      "version": 1
     },
     {
       "id": "f1-a16",
@@ -1998,7 +2146,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 11313,
+      "version": 1
     },
     {
       "id": "f1-a17",
@@ -2045,7 +2195,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 96155,
+      "version": 1
     },
     {
       "id": "f1-a18",
@@ -2092,7 +2244,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 64107,
+      "version": 1
     },
     {
       "id": "f1-a19",
@@ -2139,7 +2293,9 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 99378,
+      "version": 1
     },
     {
       "id": "f1-a20",
@@ -2186,12 +2342,16 @@
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "seed": 57124,
+      "version": 1
     }
   ],
   "appState": {
     "gridSize": 20,
-    "viewBackgroundColor": "#ffffff"
+    "viewBackgroundColor": "#ffffff",
+    "theme": "light",
+    "currentItemFontFamily": 1
   },
   "files": {}
 }
